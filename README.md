@@ -80,13 +80,6 @@ plt.show()
 
 ---
 
-## **Challenges**
-❌ **Data Inconsistencies:** Variations in country-wise reporting standards.  
-❌ **Real-time Data:** Frequent updates required for accurate forecasting.  
-❌ **Computational Power:** Large datasets require high processing power.  
-
----
-
 ## **Future Enhancements**
 🚀 **Real-Time Dashboard:** Implement a web-based visualization dashboard using **Dash/Streamlit**.  
 🚀 **Enhanced ML Models:** Improve forecasting with **XGBoost, LSTM, and Prophet models**.  
