@@ -88,4 +88,4 @@ plt.show()
 ---
 
 ## **Contributors**
-- **Your Name** - https://github.com/Bishaljay/COVID-19_Data_Analysis.git
+- **Bishal Jaysawal** - https://github.com/Bishaljay/COVID-19_Data_Analysis.git
